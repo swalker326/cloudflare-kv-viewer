@@ -2,7 +2,7 @@ I wanted a better way to view KVs so this lets me download all of them (can be r
 
 What you'll need
 - An API key with KV read permission
-- Your KV id
+- Your KV namespace id
 - Your cloudflare account ID
 
 To download all kv's with a pattern match
