@@ -2,7 +2,8 @@ I wanted a better way to view KVs so this lets me download all of them (can be r
 
 What you'll need
 - An API key with KV read permission
-- You 
+- Your KV id
+- Your cloudflare account ID
 
 To download all kv's with a pattern match
 
@@ -11,3 +12,7 @@ cargo run kv-name-pattern
 ```
 
 To download all kv's from your cloudflare
+
+```bash
+cargo run
+```
